@@ -1,4 +1,4 @@
-const allowedCors = ['https://practicum.yandex.ru', 'https://students-projects.ru', 'http://localhost:3001', 'http://localhost:3000'];
+const allowedCors = ['https://practicum.yandex.ru', 'https://students-projects.ru', 'http://localhost:3001', 'http://localhost:3000', 'http://mnemontov-backend.nomorepartiesco.ru', 'https://mnemontov-backend.nomorepartiesco.ru'];
 
 // Функция, которая принимает объекты req (информация о запросе),
 // res (объект ответа) и функцию next (для запуска следующего миддлвара)
